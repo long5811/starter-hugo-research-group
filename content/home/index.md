@@ -1,7 +1,7 @@
 ---
-# Files in this folder represent a Widget Page (homepage)
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: Feng Research Group
+widget_id: Feng Research Group
 headless: true
+weight: 1
 ---
