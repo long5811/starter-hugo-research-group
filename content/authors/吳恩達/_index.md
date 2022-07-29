@@ -1,12 +1,13 @@
 ---
+title: 冯少鸿
+role: Professor of Artificial Intelligence
+avatar_filename: feng.jpg
 organizations:
   - name: Stanford University
     url: ""
 superuser: false
 authors:
   - 吳恩達
-title: 冯少鸿
-role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
